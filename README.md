@@ -26,7 +26,7 @@ Open the full analysis here:
 netflix_data_analysis.ipynb
 
 ---
-##  Visualtions
+## 📈 Visualizations
 <img width="1313" height="724" alt="Screenshot 2026-02-08 224141" src="https://github.com/user-attachments/assets/e530d90f-0127-4795-8f06-f8b57529c99b" />
 <img width="1116" height="728" alt="Screenshot 2026-02-08 224230" src="https://github.com/user-attachments/assets/2b7a4c21-fdd6-485b-8408-a90cd1ac2d9a" />
 <img width="736" height="768" alt="Screenshot 2026-02-08 224258" src="https://github.com/user-attachments/assets/77812693-9f76-4291-818f-2d102bd9ec8e" />
