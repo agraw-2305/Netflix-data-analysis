@@ -28,7 +28,7 @@ netflix_data_analysis.ipynb
 ---
 
 ## 📂 Project Structure
-
+```text
 netflix-data-analysis/
 │
 ├── 📓 netflix_data_analysis.ipynb   # Main Colab notebook
@@ -40,8 +40,8 @@ netflix-data-analysis/
     ├── genre_distribution.png
     ├── rating_analysis.png
     └── year_trend.png
----
 
+```
 ## 🧠 Key Insights
 - Movies dominate the platform
 - Drama is the most common genre
